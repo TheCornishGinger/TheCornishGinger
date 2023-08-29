@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @TheCornishGinger
-- 👀 I’m interested in your mom
-- 🌱 I’m currently learning your mom
-- 💞️ I’m looking to collaborate on your mom
+# Welcome to my cheeky portfolio
+
+Me: *Exists*
+You: *Doesn't care*
+Me: *Also doesn't care*
+We: Become friends <3
 
 <!---
 TheCornishGinger/TheCornishGinger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
